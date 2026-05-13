@@ -1,0 +1,40 @@
+{
+  "date": "2026-05-13",
+  "market": "CN-A",
+  "summary": "E2E retest recap generated at 2026-05-13T13:03:30+08:00",
+  "themes": [
+    "E2E-Retest",
+    "GitHub-Push"
+  ],
+  "performance": [
+    {
+      "name": "测试指数",
+      "value": 1.01,
+      "unit": "%",
+      "note": "新token验证"
+    }
+  ],
+  "watchlist": [
+    {
+      "symbol": "TEST0002.SH",
+      "name": "复测标的",
+      "thesis": "验证新 token 可写权限",
+      "trigger": "push 成功",
+      "risk": "权限失效"
+    }
+  ],
+  "risks": [
+    "测试数据"
+  ],
+  "actions": [
+    "检查 commit 与文件落库"
+  ],
+  "tags": [
+    "e2e",
+    "retest"
+  ],
+  "meta": {
+    "author": "codex-e2e",
+    "run_id": "20260513-130330"
+  }
+}

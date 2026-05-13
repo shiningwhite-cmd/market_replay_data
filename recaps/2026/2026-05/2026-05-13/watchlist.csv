@@ -1,0 +1,2 @@
+symbol,name,thesis,trigger,risk
+TEST0002.SH,复测标的,验证新 token 可写权限,push 成功,权限失效
