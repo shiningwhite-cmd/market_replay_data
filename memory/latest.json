@@ -1,27 +1,29 @@
 {
-  "date": "2026-05-28",
+  "date": "2026-05-29",
   "market": "CN-A",
   "themes": [
     "AI硬件",
-    "先进封装",
-    "MLCC/PCB",
-    "算电协同",
-    "存储"
+    "CPO光模块",
+    "MLCC电容",
+    "PCB",
+    "先进封装"
   ],
   "tags": [
-    "黄灯修复",
-    "双锚校验",
-    "资金流背离"
+    "post-market-replay",
+    "auction-withdrawal",
+    "high-open-distribution",
+    "risk-off",
+    "AI-hardware"
   ],
   "symbols": [
     "000636.SZ",
     "002185.SZ",
-    "600584.SH",
-    "688525.SH"
+    "300394.SZ",
+    "601138.SH"
   ],
   "bias": "neutral",
-  "summary_short": "黄灯环境下的主线核心修复成立，但不是全面主升。AI硬件、MLCC/PCB、算电协同前排强，先进封装双锚分化，后排扩散仍需降权。",
-  "snapshot_path": "daily\\2026\\2026-05\\2026-05-28.json",
-  "journal_offset": 7,
-  "updated_at": "2026-05-28T09:09:38Z"
+  "summary_short": "AI硬件主线在昨日修复后高开兑现，上午降级为弱黄偏红，午后弱修复失败，尾盘确认风险偏好下降。不是单纯主线轮动，而是强分歧叠加科技高位流动性抽离。",
+  "snapshot_path": "daily\\2026\\2026-05\\2026-05-29.json",
+  "journal_offset": 8,
+  "updated_at": "2026-05-29T09:09:48Z"
 }
