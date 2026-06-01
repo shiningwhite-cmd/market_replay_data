@@ -1,29 +1,26 @@
 {
-  "date": "2026-05-29",
+  "date": "2026-06-01",
   "market": "CN-A",
   "themes": [
-    "AI硬件",
-    "CPO光模块",
-    "MLCC电容",
-    "PCB",
-    "先进封装"
+    "电力电网",
+    "算电协同",
+    "AI业绩链",
+    "高位兑现"
   ],
   "tags": [
-    "post-market-replay",
-    "auction-withdrawal",
-    "high-open-distribution",
-    "risk-off",
-    "AI-hardware"
+    "拥挤主线分歧筛选",
+    "价格强资金分歧",
+    "龙虎榜总额不等于席位归因"
   ],
   "symbols": [
-    "000636.SZ",
-    "002185.SZ",
+    "002384.SZ",
     "300394.SZ",
+    "600011.SH",
     "601138.SH"
   ],
   "bias": "neutral",
-  "summary_short": "AI硬件主线在昨日修复后高开兑现，上午降级为弱黄偏红，午后弱修复失败，尾盘确认风险偏好下降。不是单纯主线轮动，而是强分歧叠加科技高位流动性抽离。",
-  "snapshot_path": "daily\\2026\\2026-05\\2026-05-29.json",
-  "journal_offset": 8,
-  "updated_at": "2026-05-29T09:09:48Z"
+  "summary_short": "电力主线在拥挤状态下进入高位强分歧，资金向容量核心和低位补位集中；AI业绩链仅局部修复，科技高位兑现仍未结束。次日默认按结构性震荡处理，并依据电力承接与科...",
+  "snapshot_path": "daily\\2026\\2026-06\\2026-06-01.json",
+  "journal_offset": 1,
+  "updated_at": "2026-06-01T09:07:28Z"
 }
