@@ -1,1 +1,2 @@
 {"ts": "2026-06-01T09:07:28Z", "op": "upsert", "date": "2026-06-01", "market": "CN-A", "snapshot_path": "daily\\2026\\2026-06\\2026-06-01.json", "digest": "6a2bbbe8e832bd3f9e7c9492fa2cdf83dbd1ed2bb18208273d0d7dcdfb285edc"}
+{"ts": "2026-06-02T09:08:14Z", "op": "upsert", "date": "2026-06-02", "market": "CN-A", "snapshot_path": "daily\\2026\\2026-06\\2026-06-02.json", "digest": "dd6c69992980e6d8f279a32aefc444965f8e5b95e31ac0c3a3b63c8a56ebd62a"}
