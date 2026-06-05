@@ -1,21 +1,27 @@
 {
-  "date": "2026-06-04",
+  "date": "2026-06-05",
   "market": "CN-A",
   "themes": [
     "AI硬件",
-    "PCB",
-    "CPO",
-    "能源防御"
+    "MLCC",
+    "AI应用",
+    "光通信",
+    "容量核心",
+    "高位负反馈"
   ],
   "tags": [
-    "AI硬件强分歧",
-    "单点修复不等于主线修复",
-    "资金确认优先于价格翻红"
+    "front_row_vs_capacity_divergence",
+    "weak_to_strong_failure",
+    "risk_preference_downshift"
   ],
-  "symbols": [],
+  "symbols": [
+    "000725.SZ",
+    "002354.SZ",
+    "603500.SH"
+  ],
   "bias": "neutral",
-  "summary_short": "AI硬件主线从拥挤强化进入强分歧后的单点修复。沪电股份完成价格与资金确认，工业富联、新易盛、光迅科技等容量核心仍明显流出。市场指数可控但跌家数超过4000...",
-  "snapshot_path": "daily\\2026\\2026-06\\2026-06-04.json",
-  "journal_offset": 4,
-  "updated_at": "2026-06-04T09:07:40Z"
+  "summary_short": "AI硬件/AI应用主线早盘前排强、容量单点修复，但午后和尾盘容量核心及中后排持续兑现，市场从主线内绿灯降级为黄灯防守。真正发生的是前排封单抱团与容量/中位...",
+  "snapshot_path": "daily\\2026\\2026-06\\2026-06-05.json",
+  "journal_offset": 5,
+  "updated_at": "2026-06-05T09:08:07Z"
 }
