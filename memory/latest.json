@@ -1,27 +1,26 @@
 {
-  "date": "2026-06-05",
+  "date": "2026-06-09",
   "market": "CN-A",
   "themes": [
     "AI硬件",
-    "MLCC",
-    "AI应用",
-    "光通信",
-    "容量核心",
-    "高位负反馈"
+    "PCB",
+    "半导体",
+    "机器人",
+    "物理AI"
   ],
   "tags": [
-    "front_row_vs_capacity_divergence",
-    "weak_to_strong_failure",
-    "risk_preference_downshift"
+    "修复后分化",
+    "容量核心承接",
+    "高位接力风险"
   ],
   "symbols": [
-    "000725.SZ",
     "002354.SZ",
-    "603500.SH"
+    "002747.SZ",
+    "300502.SZ"
   ],
   "bias": "neutral",
-  "summary_short": "AI硬件/AI应用主线早盘前排强、容量单点修复，但午后和尾盘容量核心及中后排持续兑现，市场从主线内绿灯降级为黄灯防守。真正发生的是前排封单抱团与容量/中位...",
-  "snapshot_path": "daily\\2026\\2026-06\\2026-06-05.json",
-  "journal_offset": 5,
-  "updated_at": "2026-06-05T09:08:07Z"
+  "summary_short": "指数大修复但非全面绿灯；AI硬件/PCB/半导体为主线，机器人/物理AI仅前排有效，高位接力与伪概念出现兑现。",
+  "snapshot_path": "daily\\2026\\2026-06\\2026-06-09.json",
+  "journal_offset": 6,
+  "updated_at": "2026-06-09T09:06:24Z"
 }
