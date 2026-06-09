@@ -24,8 +24,8 @@
       "bias": "neutral",
       "summary_short": "指数大修复但非全面绿灯；AI硬件/PCB/半导体为主线，机器人/物理AI仅前排有效，高位接力与伪概念出现兑现。",
       "snapshot_path": "daily\\2026\\2026-06\\2026-06-09.json",
-      "journal_offset": 6,
-      "updated_at": "2026-06-09T09:06:24Z"
+      "journal_offset": 7,
+      "updated_at": "2026-06-09T09:06:54Z"
     },
     {
       "date": "2026-06-05",
@@ -154,5 +154,5 @@
       "updated_at": "2026-06-01T09:07:28Z"
     }
   ],
-  "updated_at": "2026-06-09T09:06:24Z"
+  "updated_at": "2026-06-09T09:06:54Z"
 }
