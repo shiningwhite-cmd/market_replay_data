@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-12",
+  "market": "CN-A",
+  "summary": "外盘半导体强刺激带来A股科技主线高开修复，但盘中转为高开兑现；尾盘低位金融、医药承接，高低切第一次强预警成立但未完成切换。",
+  "themes": [
+    "半导体链",
+    "AI硬件",
+    "金属钼钨",
+    "金融",
+    "医药"
+  ],
+  "performance": [],
+  "watchlist": [],
+  "risks": [],
+  "actions": [
+    "Follow risk control plan."
+  ],
+  "next_day_plan": {
+    "bias": "neutral",
+    "focus": [],
+    "avoid": [],
+    "key_levels": [],
+    "notes": ""
+  },
+  "metrics": {},
+  "tags": [
+    "外盘映射日竞价强转兑现",
+    "黄灯观察线破位即降级",
+    "高低切第一次强预警"
+  ],
+  "meta": {}
+}
