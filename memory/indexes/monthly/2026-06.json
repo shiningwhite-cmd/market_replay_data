@@ -2,6 +2,33 @@
   "month": "2026-06",
   "items": [
     {
+      "date": "2026-06-22",
+      "market": "CN-A",
+      "themes": [
+        "AI硬件",
+        "光通信",
+        "半导体材料",
+        "资源涨价",
+        "高位强分歧"
+      ],
+      "tags": [
+        "daily-recap",
+        "strong-theme-divergence",
+        "lhb-net-sell-warning"
+      ],
+      "symbols": [
+        "002141.SZ",
+        "002167.SZ",
+        "600353.SH",
+        "600487.SH"
+      ],
+      "bias": "neutral",
+      "summary_short": "科技/资源涨价主线在黄灯环境下继续强化，指数收盘接近日内高位，无系统性风险；但高位内部强分歧，贤丰控股涨停开盘后收跌，香农芯创、雅克科技、广发证券等涨幅强...",
+      "snapshot_path": "daily\\2026\\2026-06\\2026-06-22.json",
+      "journal_offset": 10,
+      "updated_at": "2026-06-22T09:12:34Z"
+    },
+    {
       "date": "2026-06-19",
       "market": "CN-A",
       "themes": [
@@ -204,5 +231,5 @@
       "updated_at": "2026-06-01T09:07:28Z"
     }
   ],
-  "updated_at": "2026-06-19T09:09:08Z"
+  "updated_at": "2026-06-22T09:12:34Z"
 }
