@@ -2,6 +2,35 @@
   "month": "2026-06",
   "items": [
     {
+      "date": "2026-06-23",
+      "market": "CN-A",
+      "themes": [
+        "AI硬件涨价链",
+        "液冷",
+        "小金属",
+        "磷化铟",
+        "光通信",
+        "PCB"
+      ],
+      "tags": [
+        "daily",
+        "post-market",
+        "strong-divergence",
+        "risk-appetite-down"
+      ],
+      "symbols": [
+        "002167.SZ",
+        "002674.SZ",
+        "002837.SZ",
+        "603757.SH"
+      ],
+      "bias": "neutral",
+      "summary_short": "AI硬件涨价链未退潮，但全天从盘前绿灯进攻演变为前排抱团、后排兑现、容量核心流动性抽离。系统性风险性质为主线强分歧叠加风险偏好下降，不是全市场无差别恐慌。",
+      "snapshot_path": "daily\\2026\\2026-06\\2026-06-23.json",
+      "journal_offset": 11,
+      "updated_at": "2026-06-23T09:07:25Z"
+    },
+    {
       "date": "2026-06-22",
       "market": "CN-A",
       "themes": [
@@ -231,5 +260,5 @@
       "updated_at": "2026-06-01T09:07:28Z"
     }
   ],
-  "updated_at": "2026-06-22T09:12:34Z"
+  "updated_at": "2026-06-23T09:07:25Z"
 }

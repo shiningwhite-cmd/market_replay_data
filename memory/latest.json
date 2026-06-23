@@ -1,27 +1,29 @@
 {
-  "date": "2026-06-22",
+  "date": "2026-06-23",
   "market": "CN-A",
   "themes": [
-    "AI硬件",
+    "AI硬件涨价链",
+    "液冷",
+    "小金属",
+    "磷化铟",
     "光通信",
-    "半导体材料",
-    "资源涨价",
-    "高位强分歧"
+    "PCB"
   ],
   "tags": [
-    "daily-recap",
-    "strong-theme-divergence",
-    "lhb-net-sell-warning"
+    "daily",
+    "post-market",
+    "strong-divergence",
+    "risk-appetite-down"
   ],
   "symbols": [
-    "002141.SZ",
     "002167.SZ",
-    "600353.SH",
-    "600487.SH"
+    "002674.SZ",
+    "002837.SZ",
+    "603757.SH"
   ],
   "bias": "neutral",
-  "summary_short": "科技/资源涨价主线在黄灯环境下继续强化，指数收盘接近日内高位，无系统性风险；但高位内部强分歧，贤丰控股涨停开盘后收跌，香农芯创、雅克科技、广发证券等涨幅强...",
-  "snapshot_path": "daily\\2026\\2026-06\\2026-06-22.json",
-  "journal_offset": 10,
-  "updated_at": "2026-06-22T09:12:34Z"
+  "summary_short": "AI硬件涨价链未退潮，但全天从盘前绿灯进攻演变为前排抱团、后排兑现、容量核心流动性抽离。系统性风险性质为主线强分歧叠加风险偏好下降，不是全市场无差别恐慌。",
+  "snapshot_path": "daily\\2026\\2026-06\\2026-06-23.json",
+  "journal_offset": 11,
+  "updated_at": "2026-06-23T09:07:25Z"
 }
