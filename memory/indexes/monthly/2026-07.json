@@ -2,6 +2,35 @@
   "month": "2026-07",
   "items": [
     {
+      "date": "2026-07-17",
+      "market": "CN-A",
+      "themes": [
+        "系统性风险",
+        "AI应用",
+        "端侧AI",
+        "医药高标",
+        "高位科技退潮"
+      ],
+      "tags": [
+        "systemic-risk",
+        "risk-off",
+        "front-row-anchor",
+        "liquidity-withdrawal",
+        "no-linear-extrapolation"
+      ],
+      "symbols": [
+        "000676.SZ",
+        "002432.SZ",
+        "002632.SZ",
+        "600664.SH"
+      ],
+      "bias": "bearish",
+      "summary_short": "系统性风险日：指数全天重挫，创业板和科创50跌超7%，全市场超5000只个股下跌、近200股跌停。盘前黄灯防守和盘中不升级判断被验证；AI应用/DeepS...",
+      "snapshot_path": "daily\\2026\\2026-07\\2026-07-17.json",
+      "journal_offset": 6,
+      "updated_at": "2026-07-17T09:05:29Z"
+    },
+    {
       "date": "2026-07-16",
       "market": "CN-A",
       "themes": [
@@ -135,5 +164,5 @@
       "updated_at": "2026-07-03T09:10:23Z"
     }
   ],
-  "updated_at": "2026-07-16T09:07:57Z"
+  "updated_at": "2026-07-17T09:05:29Z"
 }
