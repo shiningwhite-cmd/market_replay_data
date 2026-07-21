@@ -4,3 +4,4 @@
 {"ts": "2026-07-14T09:07:08Z", "op": "upsert", "date": "2026-07-14", "market": "CN-A", "snapshot_path": "daily\\2026\\2026-07\\2026-07-14.json", "digest": "f2c80c41f54b8d4ad39cf810d56b193277c55d0a2d962e4472dd1f0cb707af35"}
 {"ts": "2026-07-16T09:07:57Z", "op": "upsert", "date": "2026-07-16", "market": "CN-A", "snapshot_path": "daily\\2026\\2026-07\\2026-07-16.json", "digest": "340e30e0d66cc1253a2247ad44b9cfa3dea071a57b3ad4127f911dc991f5eb47"}
 {"ts": "2026-07-17T09:05:29Z", "op": "upsert", "date": "2026-07-17", "market": "CN-A", "snapshot_path": "daily\\2026\\2026-07\\2026-07-17.json", "digest": "a55ad232f976576f88109bf77ee59b4af93293360c0422de978a03dfd1e2dbfc"}
+{"ts": "2026-07-21T09:08:06Z", "op": "upsert", "date": "2026-07-21", "market": "CN-A", "snapshot_path": "daily\\2026\\2026-07\\2026-07-21.json", "digest": "28c8b7b7ffe80323540e5df8e5781e798d7527cddbf1442a673d6138644f6ec0"}

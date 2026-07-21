@@ -1,29 +1,26 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-21",
   "market": "CN-A",
   "themes": [
-    "系统性风险",
-    "AI应用",
-    "端侧AI",
-    "医药高标",
-    "高位科技退潮"
+    "半导体",
+    "算力硬件",
+    "氧化锆",
+    "电力"
   ],
   "tags": [
-    "systemic-risk",
-    "risk-off",
-    "front-row-anchor",
-    "liquidity-withdrawal",
-    "no-linear-extrapolation"
+    "深V修复",
+    "恐慌释放",
+    "容量共振"
   ],
   "symbols": [
-    "000676.SZ",
-    "002432.SZ",
-    "002632.SZ",
-    "600664.SH"
+    "001258.SZ",
+    "001309.SZ",
+    "300285.SZ",
+    "688256.SH"
   ],
-  "bias": "bearish",
-  "summary_short": "系统性风险日：指数全天重挫，创业板和科创50跌超7%，全市场超5000只个股下跌、近200股跌停。盘前黄灯防守和盘中不升级判断被验证；AI应用/DeepS...",
-  "snapshot_path": "daily\\2026\\2026-07\\2026-07-17.json",
-  "journal_offset": 6,
-  "updated_at": "2026-07-17T09:05:29Z"
+  "bias": "neutral",
+  "summary_short": "A股在早盘二次恐慌后出现放量深V修复，创业板指涨7.05%、科创50涨10.73%，半导体与算力容量成为修复中心，电力双核心封板但后排仍分化。系统性风险由...",
+  "snapshot_path": "daily\\2026\\2026-07\\2026-07-21.json",
+  "journal_offset": 7,
+  "updated_at": "2026-07-21T09:08:06Z"
 }
