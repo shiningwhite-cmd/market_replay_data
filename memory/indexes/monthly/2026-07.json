@@ -2,6 +2,30 @@
   "month": "2026-07",
   "items": [
     {
+      "date": "2026-07-30",
+      "market": "CN-A",
+      "themes": [
+        "CPO容量退潮",
+        "消费抱团分化",
+        "AI应用局部存活"
+      ],
+      "tags": [
+        "risk-off",
+        "capacity-capitulation",
+        "frontline-divergence"
+      ],
+      "symbols": [
+        "000428.SZ",
+        "002558.SZ",
+        "300308.SZ"
+      ],
+      "bias": "bearish",
+      "summary_short": "成长容量发生系统性风险偏好下降与流动性抽离：深成指跌2.73%、创业板指跌3.97%，CPO容量三锚同步重挫；午后风险扩散至部分消费抱团，但爱丽家居、一鸣...",
+      "snapshot_path": "daily\\2026\\2026-07\\2026-07-30.json",
+      "journal_offset": 14,
+      "updated_at": "2026-07-30T09:09:29Z"
+    },
+    {
       "date": "2026-07-29",
       "market": "CN-A",
       "themes": [
@@ -344,5 +368,5 @@
       "updated_at": "2026-07-03T09:10:23Z"
     }
   ],
-  "updated_at": "2026-07-29T09:12:12Z"
+  "updated_at": "2026-07-30T09:09:29Z"
 }

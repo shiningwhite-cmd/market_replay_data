@@ -1,26 +1,24 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "market": "CN-A",
   "themes": [
-    "CPO容量修复",
-    "AI应用",
-    "消费",
-    "高位强分歧"
+    "CPO容量退潮",
+    "消费抱团分化",
+    "AI应用局部存活"
   ],
   "tags": [
-    "结构性修复",
-    "容量与情绪双确认",
-    "高位割裂"
+    "risk-off",
+    "capacity-capitulation",
+    "frontline-divergence"
   ],
   "symbols": [
-    "300308.SZ",
-    "300359.SZ",
-    "300502.SZ",
-    "300997.SZ"
+    "000428.SZ",
+    "002558.SZ",
+    "300308.SZ"
   ],
-  "bias": "neutral",
-  "summary_short": "7月28日系统性杀跌后出现结构性修复：上证收涨0.40%、创业板指收涨1.55%，CPO容量核心与低位AI应用、消费共同承接；但旧科技跌停与高位负反馈仍在...",
-  "snapshot_path": "daily\\2026\\2026-07\\2026-07-29.json",
-  "journal_offset": 13,
-  "updated_at": "2026-07-29T09:12:12Z"
+  "bias": "bearish",
+  "summary_short": "成长容量发生系统性风险偏好下降与流动性抽离：深成指跌2.73%、创业板指跌3.97%，CPO容量三锚同步重挫；午后风险扩散至部分消费抱团，但爱丽家居、一鸣...",
+  "snapshot_path": "daily\\2026\\2026-07\\2026-07-30.json",
+  "journal_offset": 14,
+  "updated_at": "2026-07-30T09:09:29Z"
 }
