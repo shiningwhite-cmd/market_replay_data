@@ -16,3 +16,4 @@
 {"ts": "2026-08-26T09:08:42Z", "op": "upsert", "date": "2026-08-26", "market": "CN-A", "snapshot_path": "daily\\2026\\2026-08\\2026-08-26.json", "digest": "b694e7bfea5998e779496ff230690b3829b5e053ee09c21c664e0f1ff20a10fe"}
 {"ts": "2026-08-27T09:19:13Z", "op": "upsert", "date": "2026-08-27", "market": "CN-A", "snapshot_path": "daily\\2026\\2026-08\\2026-08-27.json", "digest": "0948ae663d7a672b40fa4ce15f99996627171630f5ae5fe14d7d34eac937bc03"}
 {"ts": "2026-08-28T09:15:33Z", "op": "upsert", "date": "2026-08-28", "market": "CN-A", "snapshot_path": "daily\\2026\\2026-08\\2026-08-28.json", "digest": "8ddb63d63365fbec0919b6391dc08360c06adb27cfd07bf2f0581bd18d378b56"}
+{"ts": "2026-08-31T09:25:52Z", "op": "upsert", "date": "2026-08-31", "market": "CN-A", "snapshot_path": "daily\\2026\\2026-08\\2026-08-31.json", "digest": "d99a35c868660ae0fd94ba47e5bf8a75c93fc02f5f424261418af95f9d13e24f"}
