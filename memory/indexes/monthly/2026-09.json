@@ -2,6 +2,34 @@
   "month": "2026-09",
   "items": [
     {
+      "date": "2026-09-03",
+      "market": "CN-A",
+      "themes": [
+        "液冷强化但内部仍分化",
+        "AI应用前强后弱",
+        "军工竞价证伪",
+        "高位股兑现",
+        "指数与市场宽度背离"
+      ],
+      "tags": [
+        "index-breadth-divergence",
+        "high-level-distribution",
+        "liquid-cooling-confirmation"
+      ],
+      "symbols": [
+        "002536.SZ",
+        "002909.SZ",
+        "003005.SZ",
+        "300308.SZ",
+        "300830.SZ"
+      ],
+      "bias": "neutral",
+      "summary_short": "指数近乎收平但个股显著负宽度，早盘冲高后回落，13:00—13:28四大指数共振下杀，随后修复并在尾盘再次回落。液冷是当日最有辨识度的强化分支，AI应用仅...",
+      "snapshot_path": "daily\\2026\\2026-09\\2026-09-03.json",
+      "journal_offset": 3,
+      "updated_at": "2026-09-03T09:19:18Z"
+    },
+    {
       "date": "2026-09-02",
       "market": "CN-A",
       "themes": [
@@ -60,5 +88,5 @@
       "updated_at": "2026-09-01T09:16:20Z"
     }
   ],
-  "updated_at": "2026-09-02T09:22:01Z"
+  "updated_at": "2026-09-03T09:19:18Z"
 }
